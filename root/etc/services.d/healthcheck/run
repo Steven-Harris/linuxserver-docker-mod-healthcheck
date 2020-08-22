@@ -1,0 +1,4 @@
+#!/usr/bin/with-contenv bash
+
+curl -Is $PING_URL
+sleep 5m
